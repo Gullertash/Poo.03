@@ -1,0 +1,3 @@
+/Users/gullertash/CLionProjects/pro/cmake-build-debug/CMakeFiles/pro.dir
+/Users/gullertash/CLionProjects/pro/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gullertash/CLionProjects/pro/cmake-build-debug/CMakeFiles/rebuild_cache.dir
